@@ -1,0 +1,18 @@
+digest: b2c398db
+name: dataset
+profile: '{"num_rows": 2709, "num_elements": 43344}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Area", "required": true},
+  {"type": "double", "name": "Perimeter", "required": true}, {"type": "double", "name":
+  "MajorAxisLength", "required": true}, {"type": "double", "name": "MinorAxisLength",
+  "required": true}, {"type": "double", "name": "AspectRation", "required": true},
+  {"type": "double", "name": "Eccentricity", "required": true}, {"type": "double",
+  "name": "ConvexArea", "required": true}, {"type": "double", "name": "EquivDiameter",
+  "required": true}, {"type": "double", "name": "Extent", "required": true}, {"type":
+  "double", "name": "Solidity", "required": true}, {"type": "double", "name": "roundness",
+  "required": true}, {"type": "double", "name": "Compactness", "required": true},
+  {"type": "double", "name": "ShapeFactor1", "required": true}, {"type": "double",
+  "name": "ShapeFactor2", "required": true}, {"type": "double", "name": "ShapeFactor3",
+  "required": true}, {"type": "double", "name": "ShapeFactor4", "required": true}]}'
+source: '{"tags": {"mlflow.user": "PC USER", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

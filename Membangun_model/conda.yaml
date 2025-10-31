@@ -1,0 +1,11 @@
+name: dry-bean-mlflow-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - pip
+  - pip:
+    - pandas
+    - scikit-learn
+    - mlflow==2.18.0  
